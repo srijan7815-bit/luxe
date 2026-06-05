@@ -408,7 +408,7 @@ function App() {
             onPlay={() => setIsVideoPlaying(true)}
           >
             <source 
-              src="https://assets.mixkit.co/videos/preview/398/398-small.mp4" 
+              src="https://static.vecteezy.com/system/resources/previews/054/528/967/mp4/fashion-model-walking-on-runway-scene-with-dramatic-lighting-footage-free-video.mp4" 
               type="video/mp4" 
             />
             {/* Fallback elegant image if video fails */}
