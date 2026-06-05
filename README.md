@@ -38,6 +38,8 @@ Crafted with the elegance of Louis Vuitton, the sophistication of Dior, and the 
 ## Live Demo
 https://luxe-three-livid.vercel.app
 
+(Production: https://luxe-d1jx6g2id-srijan7815-bits-projects.vercel.app)
+
 ## GitHub
 https://github.com/srijan7815-bit/luxe
 
