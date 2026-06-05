@@ -404,14 +404,14 @@ function App() {
             muted
             loop
             playsInline
+            poster="https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=1600&q=80"
             className="absolute inset-0 w-full h-full object-cover"
             onPlay={() => setIsVideoPlaying(true)}
           >
             <source 
-              src="https://static.vecteezy.com/system/resources/previews/054/528/967/mp4/fashion-model-walking-on-runway-scene-with-dramatic-lighting-footage-free-video.mp4" 
+              src="https://assets.mixkit.co/videos/preview/398/398-small.mp4" 
               type="video/mp4" 
             />
-            {/* Fallback elegant image if video fails */}
             Your browser does not support the video tag.
           </video>
           
